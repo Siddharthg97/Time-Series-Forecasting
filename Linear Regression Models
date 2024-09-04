@@ -1,0 +1,3 @@
+All regression models can be used for time series forecasting provided that features are time dependent.
+Further te metric generally RMSE , MAPE , RMSE/Std dev.
+Need to have benchamrk models to compare the performance.
