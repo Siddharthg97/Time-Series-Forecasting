@@ -19,6 +19,6 @@ make time stationary - log return tarnsformation, differencing of order -1,2,
 
 **Model Validation**
 
-**Model deployment**
+**Model deployment**f
 
 
