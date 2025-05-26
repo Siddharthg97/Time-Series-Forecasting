@@ -1,3 +1,9 @@
+**Baseline models**
+i) ETS - Single exponential smoothening
+
+
+
+
 **Fourier Transform**
 The Fourier Transform is a powerful tool in time series analysis that helps you understand the frequency components of a signal or dataset. Here's a quick breakdown of what it is and how it's used:
 
